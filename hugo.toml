@@ -2,3 +2,36 @@ baseURL = 'https://www.aehmcdonald.github.io'
 languageCode = 'en-us'
 title = 'Alison McDonald'
 theme = 'succulent'
+
+#where the "previous work" links to
+[params]
+  mainSection = "posts"
+  mainSectionTitle = "Previous Work"
+
+  #this is the description
+  description = "Hi! My name is Alison and I specialize in generalization."
+
+
+[[params.social]]
+  name = "email"
+  link = "alison.e.h.mcdonald@gmail.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/alison-e-h-mcdonald"
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Resume"
+url = "/Resume"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
