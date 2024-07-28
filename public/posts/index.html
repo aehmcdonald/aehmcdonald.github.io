@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
+<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
   data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.b8da292d0cbf36b9b995a237d0bbdcd44f8ecd873ddf7286a8213ee34535b05b37071b6f71e3ef3c91e2639ddb0c930f59e2c3784f329b57df00062909ddd663.css"
-    integrity="sha512-uNopLQy/Nrm5laI30Lvc1E&#43;OzYc933KGqCE&#43;40U1sFs3BxtvcePvPJHiY53bDJMPWeLDeE8ym1ffAAYpCd3WYw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d26ab987142925acab93537071608417919f8d8c6e3de6e923d37fdfa7077cfce1aa4d4d127eef6a6b2811e7423aab0b94d866c9b1bb4a8e5ac8accfbaa2358d.css"
+    integrity="sha512-0mq5hxQpJayrk1NwcWCEF5GfjYxuPebpI9N/36cHfPzhqk1NEn7vamsoEedCOqsLlNhmybG7So5ayKzPuqI1jQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -123,7 +123,12 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 min-h-[130px] opacity-65 pl-[24px] pr-[24px] bg-gradient-to-b from-neutral from-60% dark:from-neutral-800 to-transparent mix-blend-normal" style="z-index:80"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -201,11 +206,31 @@
 
 
 
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
+
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
       
 
+
+
+
+
+
+ 
+  
+   
+  
+ 
 
  <header>
   
@@ -298,12 +323,16 @@
 
 
 
-  <a class="flex flex-wrap article " href="/posts/recordshelf/recordshelf/">
-    <div class=" mt-3 md:mt-0">
+  <a class="flex flex-wrap article " href="/posts/recordshelf/">
+    
+        
+        <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/posts/recordshelf/Featured_Shelf_hua0bf57f9709996e41eb7fdd5543f7c52_116869_600x0_resize_q75_box.jpg);"></div>
+        
+      <div class=" mt-3 md:mt-0">
       <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/posts/recordshelf/recordshelf/">Record Shelf</div>
+          href="/posts/recordshelf/">Record Shelf</div>
         
         
         
@@ -390,14 +419,6 @@
     
 
     
-    
-    <p class="text-xs text-neutral-500 dark:text-neutral-400">
-      
-      
-      Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
-    </p>
     
 
   </div>

@@ -10,12 +10,12 @@
     <lastBuildDate>Sat, 27 Jul 2024 20:39:47 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Record Shelf</title>
-      <link>http://localhost:1313/posts/recordshelf/recordshelf/</link>
+      <link>http://localhost:1313/posts/recordshelf/</link>
       <pubDate>Sat, 27 Jul 2024 20:39:47 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/recordshelf/recordshelf/</guid>
+      <guid>http://localhost:1313/posts/recordshelf/</guid>
       <description>Record Shelf # Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/recordshelf/Featured_Shelf.jpg" />
     </item>
     
   </channel>
