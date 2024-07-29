@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Blowfish</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 27 Jul 2024 20:39:47 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jul 2024 20:39:47 -0700</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Record Shelf</title>
-      <link>http://localhost:1313/posts/recordshelf/</link>
+      <link>//localhost:1313/posts/recordshelf/</link>
       <pubDate>Sat, 27 Jul 2024 20:39:47 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/recordshelf/</guid>
+      <guid>//localhost:1313/posts/recordshelf/</guid>
       <description>Record Shelf # Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/recordshelf/Featured_Shelf.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/recordshelf/Featured_Shelf.jpg" />
+    </item>
+    
+    <item>
+      <title>Healthy Hearth</title>
+      <link>//localhost:1313/posts/healthyhearth/</link>
+      <pubDate>Wed, 24 Jul 2024 20:39:35 -0700</pubDate>
+      
+      <guid>//localhost:1313/posts/healthyhearth/</guid>
+      <description>Healthy Hearth Coffee # The Logo # The logo represents a home, with a hearth inside of it, as well as the hearth itself with a fire inside.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/healthyhearth/Featured_HHC_Pack.png" />
+    </item>
+    
+    <item>
+      <title>Lasarrus</title>
+      <link>//localhost:1313/posts/lasarrus/</link>
+      <pubDate>Wed, 24 Jul 2024 20:39:19 -0700</pubDate>
+      
+      <guid>//localhost:1313/posts/lasarrus/</guid>
+      <description>Case Study: Revitalizing Lasarrus&amp;rsquo;Information Architecture # The Summary: # In the dynamic landscape of startups, the journey often begins with a simple one-page website.</description>
+      
     </item>
     
   </channel>
