@@ -27,6 +27,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2024-07-24T20:43:56-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/healthyhearth/</loc>
     <lastmod>2024-07-24T20:39:35-07:00</lastmod>
     <changefreq>daily</changefreq>
