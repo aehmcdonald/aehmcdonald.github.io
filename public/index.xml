@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 24 Jul 2024 20:43:56 -0700</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Healthy Hearth</title>
       <link>http://localhost:1313/posts/healthyhearth/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:35 -0700</pubDate>
