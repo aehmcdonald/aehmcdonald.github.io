@@ -1,9 +1,0 @@
-[submodule "themes/succulent"]
-	path = themes/succulent
-	url = https://github.com/aehmcdonald/succulent.git
-[submodule "themes/blowfish"]
-	path = themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
-[submodule "blowfish"]
-	path = blowfish
-	url = git@github.com:aehmcdonald/blowfish.git
