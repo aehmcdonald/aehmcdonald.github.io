@@ -10,11 +10,11 @@ draft = false
 The logo represents a
 home, with a hearth inside of it, as well as the hearth itself with a fire inside.
 The shape of the fire intentionally resembles a crown, to show the luxury that can be found in simple, rustic food and drink.
-![An image of multicolored coffee cups with the Healthy Hearth logo on them](/Cups.jpg)
+![An image of multicolored coffee cups with the Healthy Hearth logo on them](/img/healthyhearth/Cups.jpg)
 
 ## Colors
 The colors are representative of the earth, the sky, and the coffee beans used by the cafe. 
-![The brand color palette displayed in circles](/Colors.jpg)
+![The brand color palette displayed in circles](img/healthyhearth/Colors.jpg)
 
 
 

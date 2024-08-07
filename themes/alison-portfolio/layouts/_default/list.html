@@ -2,7 +2,16 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+  <div class="item">
+    <a href="{{ .RelPermalink }}">
+      {{ if $image := resources.Get .Params.featured_image }}
+      <img src=""{{ ($image.Fill "200x200 q100 Center").RelPermalink }} >
+      {{ end }}
+      <div>
+        <h2>{{ .LinkTitle }}</h2>
+        {{ .Summary }}
+      </div>
+    </a>
+  </div>
   {{ end }}
 {{ end }}
