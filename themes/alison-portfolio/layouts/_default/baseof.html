@@ -5,13 +5,13 @@
 </head>
 <body class="flex_container">
   <header>
-    {{ partial "header.html" . }}
+    {{ partialCached "header.html" . }}
   </header>
   <main class="main_content">
     {{ block "main" . }}{{ end }}
   </main>
   <footer>
-    {{ partial "footer.html" . }}
+    {{ partialCached "footer.html" . }}
   </footer>
 </body>
 </html>

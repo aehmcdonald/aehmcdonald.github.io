@@ -1,8 +1,12 @@
 :root {
   --pink: #EEC7EB;
   --purple: #1A0B20;
+  --light-purple: #e3bcf8;
   --light-pink: #FAF3FA;
+}
 
+body {
+  background-color: var(--light-pink);
 }
 
 .flex_container {
@@ -16,7 +20,6 @@
   min-height: 100vh;
 }
 
-
 a {
   color: var(--purple);
   text-decoration: none;
@@ -26,21 +29,85 @@ h1 {
   margin: 0px; /* INCREDIBLY IMPORTANT!!!! THIS FUCK TOP MARGIN */
 }
 
-h3 {
-  padding: 0px;
-  margin: 0px;
+h2 {
+
 }
 
-h2 a {
-  text-decoration: underline;
+h3 {
+  margin-top: 0;
+}
+
+p {
+  margin: 1em 0em;
+}
+
+p img { /* AFFECTS POST IMAGES */
+  max-width: 100%;
+  padding: 2rem 0;
 }
 
 .main_content {
   background-color: var(--light-pink);
   padding: 2% 5% 5% 5%;
   flex-grow: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
 }
 
+/* BLOG CARDS */
+.card_post {
+  background-color: var(--light-purple);
+  display: flex;
+  flex-direction: row;
+  min-width: 95%;
+  gap: 2rem;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+
+.link_title {
+  /* AFFECTS H2 LINKS ON HOMEPAGE */
+  text-decoration: underline;
+}
+
+.card_image {
+  width: 20rem;
+  max-height: min-content;
+  min-width: 25%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card_image img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+
+.card_text {
+  max-width: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+  .card_post {
+    flex-wrap: wrap;
+    padding: 1rem;
+    margin: 0px;
+  }
+
+  .card_image {
+    width: auto;
+  }
+
+  .card_text {
+    min-width: 80vw;
+  }
+
+}
+
+/* NAVBAR AND FOOTER */
 .navbar {
   display: flex;
   flex-direction: row;
@@ -51,6 +118,7 @@ h2 a {
   min-height: 5em;
   justify-content: space-between;
   align-items: center;
+
 }
 
 .menu {
@@ -72,4 +140,8 @@ h2 a {
   gap: 0px;
   background-color: var(--purple);
   color: var(--pink);
+}
+
+.hero_main {
+  margin-top: 1rem;
 }

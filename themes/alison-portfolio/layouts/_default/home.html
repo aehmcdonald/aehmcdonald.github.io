@@ -1,7 +1,20 @@
 {{ define "main" }}
-  {{ .Content }}
+  <div class="hero_main">
+    {{ .Content }}
+  </div>
+  <h1>Previous Work</h1>
   {{ range where site.RegularPages "Type" "posts" }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+      <a href="{{ .RelPermalink }}">
+        <div class="card_post">
+          <div class="card_text">
+            <h2 class="link_title">{{ .LinkTitle }}</h2>
+            <p>{{ .Summary }}</p>
+          </div>
+          <div class="card_image">
+            {{ $image := index (.Page.Resources.Match "featured*") 0 }}
+            <img src="{{ ($image.Fit "500x700").RelPermalink }}">
+          </div>
+        </div>
+      </a>
   {{ end }}
 {{ end }}
