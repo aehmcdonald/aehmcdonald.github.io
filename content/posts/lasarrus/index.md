@@ -1,14 +1,12 @@
 +++
-title = 'Lasarrus'
+title = 'Revitalizing Lassarus Information Architecture'
 date = 2024-07-24T20:39:19-07:00
 draft = false
 +++
 
-# Case Study: Revitalizing Lasarrus'Information Architecture
-
-## The Summary:
-
-In the dynamic landscape of startups, the journey often begins with a simple one-page website. However, as organizations grow, these initial sites can become bloated and lose their impact. Lasarrus, a health and wellness company, faced this challenge with a website suffering from duplicate pages, unclear hierarchy, and mismatched design elements.
+In the dynamic landscape of startups, the journey often begins with a simple one-page website. However, as organizations grow, these initial sites can become bloated and lose their impact. 
+<!--more-->
+Lasarrus, a health and wellness company, faced this challenge with a website suffering from duplicate pages, unclear hierarchy, and mismatched design elements.
 
 ## The Challenge:
 

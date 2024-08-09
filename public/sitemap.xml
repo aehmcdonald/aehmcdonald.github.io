@@ -20,11 +20,15 @@
     <loc>http://localhost:1313/posts/healthyhearth/</loc>
     <lastmod>2024-07-24T20:39:35-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/past-work/</loc>
+    <lastmod>2024-07-24T20:39:35-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-24T20:39:35-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/lasarrus/</loc>
     <lastmod>2024-07-24T20:39:19-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
