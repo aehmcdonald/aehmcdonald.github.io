@@ -57,15 +57,15 @@ p img { /* AFFECTS POST IMAGES */
 
 /* BLOG CARDS */
 .card_post {
-  background-color: var(--light-purple);
+  /* background-color: var(--light-purple); */
   display: flex;
   flex-direction: row;
-  min-width: 95%;
-  gap: 2rem;
-  justify-content: space-around;
+  min-width: 100%;
+  padding: 1rem 0rem 0rem 0rem;
+  gap: 4rem;
+  justify-content: left;
   align-items: center;
-  padding: 1.5rem;
-  border-radius: 1rem;
+  border-style: dotted  hidden hidden;
 }
 
 .link_title {
@@ -93,7 +93,7 @@ p img { /* AFFECTS POST IMAGES */
 @media only screen and (max-width: 600px) {
   .card_post {
     flex-wrap: wrap;
-    padding: 1rem;
+    gap: 1rem;
     margin: 0px;
   }
 

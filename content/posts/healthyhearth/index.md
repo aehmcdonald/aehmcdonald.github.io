@@ -5,7 +5,7 @@ tags = 'past work'
 draft = false
 +++
 
-### A full branding system for a down-to-earth coffee shop, complete with logos, colors, and a website.
+A full branding system for a down-to-earth coffee shop, complete with logos, colors, and a website.
 
 <!--more-->
 

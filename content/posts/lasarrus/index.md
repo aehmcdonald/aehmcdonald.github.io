@@ -1,5 +1,5 @@
 +++
-title = 'Revitalizing Lassarus Information Architecture'
+title = 'Information Architecture Refresh'
 date = 2024-07-24T20:39:19-07:00
 draft = false
 +++
