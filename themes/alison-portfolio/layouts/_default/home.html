@@ -2,19 +2,33 @@
   <div class="hero_main">
     {{ .Content }}
   </div>
-  <h1>Previous Work</h1>
+
+  <div class="work-header">
+    <h1>Previous Work</h1>
+  <!-- #THIS IS THE TAG THING. IM STILL WORKING ON IT.
+    <div class="work-categories">
+      <a href="/tags/CAD">CAD</a>
+      <a href="/tags/website">Websites</a>
+      <a href="/tags/branding">Branding</a>
+      <a href="/tags/illustration">Illustration</a>
+    </div> -->
+  </div>
+
   {{ range where site.RegularPages "Type" "posts" }}
+  <div class="work">
       <a href="{{ .RelPermalink }}">
         <div class="card_post">
           <div class="card_text">
             <h2 class="link_title">{{ .LinkTitle }}</h2>
             <p>{{ .Summary }}</p>
           </div>
+
           <div class="card_image">
             {{ $image := index (.Page.Resources.Match "featured*") 0 }}
             <img src="{{ ($image.Fit "500x700").RelPermalink }}">
           </div>
         </div>
       </a>
+  </div>
   {{ end }}
 {{ end }}

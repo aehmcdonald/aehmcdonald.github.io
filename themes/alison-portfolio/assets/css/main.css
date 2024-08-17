@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 :root {
   --pink: #EEC7EB;
   --purple: #1A0B20;
@@ -12,7 +14,7 @@ body {
 .flex_container {
   margin: 0px;
   color: var(--purple);
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Space Mono', Courier, monospace;
   line-height: 1.5;
   max-width: 100%;
   display: flex;
@@ -26,24 +28,48 @@ a {
 }
 
 h1 {
-  margin: 0px; /* INCREDIBLY IMPORTANT!!!! THIS FUCK TOP MARGIN */
+  margin: 0px; /* INCREDIBLY IMPORTANT!!!! THIS UNFUCKS THE TOP MARGIN */
+  font-weight: 700;
 }
 
 h2 {
-
+  font-weight: 400;
 }
 
 h3 {
   margin-top: 0;
+  font-weight: 400;
+}
+
+h4 {
+  font-weight: 400;
 }
 
 p {
   margin: 1em 0em;
+  font-weight: 400;
 }
 
 p img { /* AFFECTS POST IMAGES */
   max-width: 100%;
   padding: 2rem 0;
+}
+
+.work-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.work-categories {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.work {
+  max-width: clamp(50rem, 65%, 100vw);
+
 }
 
 .main_content {
@@ -71,6 +97,7 @@ p img { /* AFFECTS POST IMAGES */
 .link_title {
   /* AFFECTS H2 LINKS ON HOMEPAGE */
   text-decoration: underline;
+  font-weight: 700;
 }
 
 .card_image {
@@ -90,7 +117,15 @@ p img { /* AFFECTS POST IMAGES */
   max-width: 50%;
 }
 
+/* @media only screen and (max-width: 1000px) {
+  .work {
+    max-width: 100%;
+  }
+  
+} */
+
 @media only screen and (max-width: 600px) {
+  
   .card_post {
     flex-wrap: wrap;
     gap: 1rem;
@@ -144,4 +179,5 @@ p img { /* AFFECTS POST IMAGES */
 
 .hero_main {
   margin-top: 1rem;
+  width: clamp(300px, 50%, 1000px);
 }

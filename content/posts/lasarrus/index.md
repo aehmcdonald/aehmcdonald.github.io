@@ -2,6 +2,8 @@
 title = 'Information Architecture Refresh'
 date = 2024-07-24T20:39:19-07:00
 draft = false
+type = 'posts'
+tags = ['information architecture', 'website', 'past work']
 +++
 
 In the dynamic landscape of startups, the journey often begins with a simple one-page website. However, as organizations grow, these initial sites can become bloated and lose their impact. 
@@ -27,7 +29,11 @@ The new website strategically placed the three main touchpoints—Product Inform
 
 ### 2. Content Audit and Reorganization:
 
-To gain insights into the existing information architecture, ScreamingFrog was employed to audit all content links on the website. A sitemap was created, illustrating the paths taken to each piece of content. The paths were then reorganized based on the priority of the content involved. Each path was optimized to allow the user the fastest route to high-priority information.
+To gain insights into the existing information architecture, *ScreamingFrog* was employed to audit all content links on the website. A sitemap was created, illustrating the paths taken to each piece of content. The paths were then reorganized based on the priority of the content involved. Each path was optimized to allow the user the fastest route to high-priority information.
+
+The original sitemap is shown below, with some directories censored for privacy.
+
+![A flowchart showing the directory structure of Lasarrus' old website, with some URLs blurred for privacy](featured_directory_tree.jpg)
 
 ### 3. Tree Trimming:
 

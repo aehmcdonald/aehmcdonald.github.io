@@ -1,7 +1,8 @@
 +++
 title = 'Forest Cottage'
-date = 2024-08-24T20:39:19-07:00
+date = 2024-08-16T14:45:54-07:00
 draft = false
+tags = ['CAD', 'architecture', 'past work']
 +++
 
 Architectural design for a small 2-storey cottage, displayed in isometric view. 

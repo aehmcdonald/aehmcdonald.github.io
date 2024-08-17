@@ -2,11 +2,18 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-  <div class="page_item">
-    <a href="{{ .RelPermalink }}">
-        <h2>{{ .LinkTitle }}</h2>
-        {{ .Summary }}
-    </a>
+      <a href="{{ .RelPermalink }}">
+        <div class="card_post">
+          <div class="card_text">
+            <h2 class="link_title">{{ .LinkTitle }}</h2>
+            <p>{{ .Summary }}</p>
+          </div>
+          <div class="card_image">
+            {{ $image := index (.Page.Resources.Match "featured*") 0 }}
+            <img src="{{ ($image.Fit "500x700").RelPermalink }}">
+          </div>
+        </div>
+      </a>
+  {{ end }}
   </div>
   {{ end }}
-{{ end }}

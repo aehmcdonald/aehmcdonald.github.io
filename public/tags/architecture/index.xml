@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Alison McDonald</title>
+    <link>http://localhost:1313/tags/architecture/</link>
+    <description>Recent content in Architecture on Alison McDonald</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 16 Aug 2024 14:45:54 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forest Cottage</title>
+      <link>http://localhost:1313/posts/forestcottage/</link>
+      <pubDate>Fri, 16 Aug 2024 14:45:54 -0700</pubDate>
+      <guid>http://localhost:1313/posts/forestcottage/</guid>
+      <description>&lt;p&gt;Architectural design for a small 2-storey cottage, displayed in isometric view.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

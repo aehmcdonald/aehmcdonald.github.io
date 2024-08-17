@@ -6,8 +6,15 @@
     <description>Recent content on Alison McDonald</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Jul 2024 20:39:47 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 14:45:54 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forest Cottage</title>
+      <link>http://localhost:1313/posts/forestcottage/</link>
+      <pubDate>Fri, 16 Aug 2024 14:45:54 -0700</pubDate>
+      <guid>http://localhost:1313/posts/forestcottage/</guid>
+      <description>&lt;p&gt;Architectural design for a small 2-storey cottage, displayed in isometric view.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Record Shelf</title>
       <link>http://localhost:1313/posts/recordshelf/</link>
