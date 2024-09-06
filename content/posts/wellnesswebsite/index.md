@@ -1,7 +1,7 @@
 +++
 title = 'Wellness Website'
 date = 2024-09-06T13:06:19-07:00
-draft = true
+draft = false
 tags = 'past work'
 +++
 
