@@ -16,7 +16,10 @@ The shape of the fire intentionally resembles a crown, to show the luxury that c
 
 ## Colors
 The colors are representative of the earth, the sky, and the coffee beans used by the cafe. 
-![The brand color palette displayed in circles](Colors.jpg)
+![The brand color palette (two blues, one brown, one dark green, and one off-white) displayed in circles](Colors.jpg)
+
+## The Website
+![A website mockup with a blue and brown color scheme, featuring three packages of coffee beans on the main page.](Website_Concept.jpg)
 
 
 
