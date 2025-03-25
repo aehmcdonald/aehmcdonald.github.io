@@ -8,6 +8,18 @@ layout = "single.html"
 
 
 # Work Experience
+
+## CAHA Design Studio
+### Architectural Drafter
+*10/24 - present • Freelance*
+
+- Created as-built plans and models from floorplans and historic data
+- Managed equipment schedules and specification sheet packets across projects
+- Designed mechanical, electrical, and plumbing schematics
+- Worked on both commercial and residential projects
+- Completed a Historic Resources Report through the use of public records, genealogical databases, photographic surveys, and command-line programming
+- Interfaced with contractors, vendors, and other architecture studios to gather necessary information to complete projects
+
 ## iPermit
 ### Permit Runner
 *01/24 - 06/24 • Full time*
@@ -27,7 +39,7 @@ layout = "single.html"
 - Presented in weekly team meetings on findings and conclusions from website and application audit, resulting in an increase in shareholder approval.
 - Handled email communication and CAD revisions with a professional manufacturing company.
 
-##Oh, The Horror! Magazine
+## Oh, The Horror! Magazine
 ### Editor, Lead Designer
 *03/22 - 10/22*
 
@@ -46,7 +58,7 @@ sizing, and paper selection.
 **Lane Community College** • Graduated 07/21
 
 # Toolbox
-ArchiCAD, AutoCAD, Figma, Fusion360, Google Drive, Microsoft Office, Revit, SolidWorks.
+AutoCAD, Figma, Google Drive, Microsoft Office, Revit, FreeCAD.
 
 # Skills
-3D Modeling, ISO & ANSI standards, Digital Marketing, Technical Writing, Vendor Relationship Management. 
+3D modeling, 2D drafting, HTML/CSS, website management, permit administration, technical writing, vendor relationship management. 
