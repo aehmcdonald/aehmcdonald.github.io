@@ -2,52 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alison McDonald</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Alison McDonald</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Aug 2024 14:45:54 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description>Interested in working with me? Send me a message below!</description>
+    </item>
+    <item>
+      <title>Groovy Grover</title>
+      <link>https://example.org/posts/groovygrover/</link>
+      <pubDate>Sun, 24 Nov 2024 21:44:27 -0800</pubDate>
+      <guid>https://example.org/posts/groovygrover/</guid>
+      <description>A wonky, wobbly, weirdo font for all your groovy needs. Purchase it for personal and commercial use at AlleyCatIndusries.com&#xA;Groovy Grover </description>
+    </item>
+    <item>
+      <title>Art Deco House</title>
+      <link>https://example.org/posts/artdeco/</link>
+      <pubDate>Fri, 13 Sep 2024 10:42:24 -0700</pubDate>
+      <guid>https://example.org/posts/artdeco/</guid>
+      <description>This layout was drawn from an image of a gorgeous Art-Deco house in Florida. I focused mainly on the exterior architecture, such as the curved facade, and therefore did not include a full floorplan in the drawings.</description>
+    </item>
+    <item>
+      <title>Wellness Website</title>
+      <link>https://example.org/posts/wellnesswebsite/</link>
+      <pubDate>Fri, 06 Sep 2024 13:06:19 -0700</pubDate>
+      <guid>https://example.org/posts/wellnesswebsite/</guid>
+      <description>This mockup website was built as an example design for the upcoming debut of Doldrum Studio, a web design studio for wellness providers.</description>
+    </item>
     <item>
       <title>Forest Cottage</title>
-      <link>http://localhost:1313/posts/forestcottage/</link>
+      <link>https://example.org/posts/forestcottage/</link>
       <pubDate>Fri, 16 Aug 2024 14:45:54 -0700</pubDate>
-      <guid>http://localhost:1313/posts/forestcottage/</guid>
+      <guid>https://example.org/posts/forestcottage/</guid>
       <description>&lt;p&gt;Architectural design for a small 2-storey cottage, displayed in isometric view.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Record Shelf</title>
-      <link>http://localhost:1313/posts/recordshelf/</link>
+      <link>https://example.org/posts/recordshelf/</link>
       <pubDate>Sat, 27 Jul 2024 20:39:47 -0700</pubDate>
-      <guid>http://localhost:1313/posts/recordshelf/</guid>
+      <guid>https://example.org/posts/recordshelf/</guid>
       <description>Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D. </description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Wed, 24 Jul 2024 20:43:56 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <guid>https://example.org/about/</guid>
+      <description>I&amp;rsquo;m Alison and I&amp;rsquo;m a *-Designer No, the asterisk isn&amp;rsquo;t a typo. It&amp;rsquo;s an innovative new title I&amp;rsquo;ve given to myself. Taken from the programming concept, the asterisk represents a wildcard &amp;ndash; a fill-in-the-blank.&#xA;I&amp;rsquo;ve had experience as a UX Designer, a Graphic Designer, a Web Designer, a Drafter/Designing&amp;hellip; the list goes on, but the final word doesn&amp;rsquo;t change. The core of all my interests is design, from architecture to websites, from information architecture to branding.</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://example.org/resume/</link>
       <pubDate>Wed, 24 Jul 2024 20:43:56 -0700</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description></description>
+      <guid>https://example.org/resume/</guid>
+      <description>Work Experience CAHA Design Studio Architectural Drafter 10/24 - present • Freelance&#xA;Created as-built plans and models from floorplans and historic data Managed equipment schedules and specification sheet packets across projects Designed mechanical, electrical, and plumbing schematics Worked on both commercial and residential projects Completed a Historic Resources Report through the use of public records, genealogical databases, photographic surveys, and command-line programming Interfaced with contractors, vendors, and other architecture studios to gather necessary information to complete projects iPermit Permit Runner 01/24 - 06/24 • Full time</description>
     </item>
     <item>
       <title>Healthy Hearth</title>
-      <link>http://localhost:1313/posts/healthyhearth/</link>
+      <link>https://example.org/posts/healthyhearth/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:35 -0700</pubDate>
-      <guid>http://localhost:1313/posts/healthyhearth/</guid>
+      <guid>https://example.org/posts/healthyhearth/</guid>
       <description>&lt;p&gt;A full branding system for a down-to-earth coffee shop, complete with logos, colors, and a website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Information Architecture Refresh</title>
-      <link>http://localhost:1313/posts/lasarrus/</link>
+      <link>https://example.org/posts/lasarrus/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:19 -0700</pubDate>
-      <guid>http://localhost:1313/posts/lasarrus/</guid>
+      <guid>https://example.org/posts/lasarrus/</guid>
       <description>&lt;p&gt;In the dynamic landscape of startups, the journey often begins with a simple one-page website. However, as organizations grow, these initial sites can become bloated and lose their impact.&lt;/p&gt;</description>
     </item>
   </channel>

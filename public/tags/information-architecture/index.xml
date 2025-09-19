@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Architecture on Alison McDonald</title>
-    <link>http://localhost:1313/tags/information-architecture/</link>
+    <link>https://example.org/tags/information-architecture/</link>
     <description>Recent content in Information Architecture on Alison McDonald</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 24 Jul 2024 20:39:19 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/information-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/information-architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Information Architecture Refresh</title>
-      <link>http://localhost:1313/posts/lasarrus/</link>
+      <link>https://example.org/posts/lasarrus/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:19 -0700</pubDate>
-      <guid>http://localhost:1313/posts/lasarrus/</guid>
+      <guid>https://example.org/posts/lasarrus/</guid>
       <description>&lt;p&gt;In the dynamic landscape of startups, the journey often begins with a simple one-page website. However, as organizations grow, these initial sites can become bloated and lose their impact.&lt;/p&gt;</description>
     </item>
   </channel>

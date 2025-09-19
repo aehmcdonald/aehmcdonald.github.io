@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CAD on Alison McDonald</title>
-    <link>http://localhost:1313/tags/cad/</link>
+    <link>https://example.org/tags/cad/</link>
     <description>Recent content in CAD on Alison McDonald</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Aug 2024 14:45:54 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Sep 2024 10:42:24 -0700</lastBuildDate>
+    <atom:link href="https://example.org/tags/cad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Deco House</title>
+      <link>https://example.org/posts/artdeco/</link>
+      <pubDate>Fri, 13 Sep 2024 10:42:24 -0700</pubDate>
+      <guid>https://example.org/posts/artdeco/</guid>
+      <description>This layout was drawn from an image of a gorgeous Art-Deco house in Florida. I focused mainly on the exterior architecture, such as the curved facade, and therefore did not include a full floorplan in the drawings.</description>
+    </item>
     <item>
       <title>Forest Cottage</title>
-      <link>http://localhost:1313/posts/forestcottage/</link>
+      <link>https://example.org/posts/forestcottage/</link>
       <pubDate>Fri, 16 Aug 2024 14:45:54 -0700</pubDate>
-      <guid>http://localhost:1313/posts/forestcottage/</guid>
+      <guid>https://example.org/posts/forestcottage/</guid>
       <description>&lt;p&gt;Architectural design for a small 2-storey cottage, displayed in isometric view.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Record Shelf</title>
-      <link>http://localhost:1313/posts/recordshelf/</link>
+      <link>https://example.org/posts/recordshelf/</link>
       <pubDate>Sat, 27 Jul 2024 20:39:47 -0700</pubDate>
-      <guid>http://localhost:1313/posts/recordshelf/</guid>
+      <guid>https://example.org/posts/recordshelf/</guid>
       <description>Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D. </description>
     </item>
   </channel>
