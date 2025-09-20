@@ -19,6 +19,11 @@ name = 'Resume'
 pageRef = '/resume'
 weight = 30
 
+[[menus.main]]
+name = 'Contact'
+pageRef = '/contact'
+weight = 40
+
 [module]
   [module.hugoVersion]
     extended = false

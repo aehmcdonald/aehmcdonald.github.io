@@ -5,11 +5,10 @@
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 
-  <div class="main_content">
+  <!--<div class="main_content">
     {{ .Content }}
-  </div>
+  </div>-->
 
-  <div class="form">
   <form method="post" action="https://forms.un-static.com/forms/cf037cdcf38fdfb6eedc5957cfaa60d0a5a680d3">
   <div class="form-group row">
     <label for="name" class="col-4 col-form-label">Name</label>
@@ -48,7 +47,6 @@
     <p><small>(Powered by <a rel="nofollow" href="https://un-static.com">Un-static Forms</a>)</small></p>
   </div>
 </form>
-</div?
   
-  {{ partialCached "terms.html" (dict "taxonomy" "tags" "page" .) }}
-{{ end }}
+  <!--  {{ partialCached "terms.html" (dict "taxonomy" "tags" "page" .) }} -->
+  {{ end }}

@@ -1,9 +1,9 @@
 +++
 title = 'Contact'
-date = 2025-09-24T20:43:56-07:00
+date = 2024-07-24T20:43:56-07:00
 draft = false
-type = 'page'
-layout = 'contact.html'
+type = "page"
+layout = "contact"
 +++
 
-Interested in working with me? Use the form above to send me a message!
+Interested in working with me? Use the form below to send me a message!

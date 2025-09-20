@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alison McDonald</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Alison McDonald</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 24 Nov 2024 21:44:27 -0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groovy Grover</title>
-      <link>https://example.org/posts/groovygrover/</link>
+      <link>http://localhost:1313/posts/groovygrover/</link>
       <pubDate>Sun, 24 Nov 2024 21:44:27 -0800</pubDate>
-      <guid>https://example.org/posts/groovygrover/</guid>
-      <description>A wonky, wobbly, weirdo font for all your groovy needs. Purchase it for personal and commercial use at AlleyCatIndusries.com&#xA;Groovy Grover </description>
+      <guid>http://localhost:1313/posts/groovygrover/</guid>
+      <description>&lt;p&gt;A wonky, wobbly, weirdo font for all your groovy needs.&#xA;Purchase it for personal and commercial use at &lt;a href=&#34;https://www.alleycatindustries.com/shop/p/groovy-grover-font&#34;&gt;AlleyCatIndusries.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;groovy-grover&#34;&gt;Groovy Grover&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Featured.png&#34; alt=&#34;The word &amp;ldquo;Grover&amp;rdquo; superimposed over the word &amp;ldquo;groovy&amp;rdquo; repeated vertically in an array of colors from cream to orange&#34;&gt;&#xA;&lt;img src=&#34;Cream_Soda.png&#34; alt=&#34;The words &amp;ldquo;cream soda&amp;rdquo; and &amp;ldquo;Homemade - Organic&amp;rdquo; are written in white on an orange rectangle on a green background&#34;&gt;&#xA;&lt;img src=&#34;Foliage.png&#34; alt=&#34;The words &amp;ldquo;foliage: a whole bunch of plants&amp;rdquo; is written in green on top of an orange streak of paint. The background of the image is a bed of glossy green leaves.&#34;&gt;&#xA;&lt;img src=&#34;Alphabet.png&#34; alt=&#34;An image of the entire Grover font on a green background&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Art Deco House</title>
-      <link>https://example.org/posts/artdeco/</link>
+      <link>http://localhost:1313/posts/artdeco/</link>
       <pubDate>Fri, 13 Sep 2024 10:42:24 -0700</pubDate>
-      <guid>https://example.org/posts/artdeco/</guid>
-      <description>This layout was drawn from an image of a gorgeous Art-Deco house in Florida. I focused mainly on the exterior architecture, such as the curved facade, and therefore did not include a full floorplan in the drawings.</description>
+      <guid>http://localhost:1313/posts/artdeco/</guid>
+      <description>&lt;p&gt;This layout was drawn from an image of a gorgeous Art-Deco house in Florida. I focused mainly on the exterior architecture, such as the curved facade, and therefore did not include a full floorplan in the drawings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;featured_house.jpg&#34; alt=&#34;South elevation of house&#34;&gt;&#xA;&lt;img src=&#34;firstfloor.jpg&#34; alt=&#34;First floor of house&#34;&gt;&#xA;&lt;img src=&#34;secondfloor.jpg&#34; alt=&#34;Second floor of house&#34;&gt;&#xA;&lt;img src=&#34;roof.jpg&#34; alt=&#34;Roof and awning of house&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wellness Website</title>
-      <link>https://example.org/posts/wellnesswebsite/</link>
+      <link>http://localhost:1313/posts/wellnesswebsite/</link>
       <pubDate>Fri, 06 Sep 2024 13:06:19 -0700</pubDate>
-      <guid>https://example.org/posts/wellnesswebsite/</guid>
-      <description>This mockup website was built as an example design for the upcoming debut of Doldrum Studio, a web design studio for wellness providers.</description>
+      <guid>http://localhost:1313/posts/wellnesswebsite/</guid>
+      <description>&lt;p&gt;This mockup website was built as an example design for the upcoming debut of &lt;strong&gt;Doldrum Studio&lt;/strong&gt;, a web design studio for wellness providers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Featured_Desktop.jpg&#34; alt=&#34;A mockup of a website in shades of green, with highlights of orange.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Featured_Mobile.jpg&#34; alt=&#34;A mockup of a mobile website in shades of green, with highlights of orange.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Forest Cottage</title>
-      <link>https://example.org/posts/forestcottage/</link>
+      <link>http://localhost:1313/posts/forestcottage/</link>
       <pubDate>Fri, 16 Aug 2024 14:45:54 -0700</pubDate>
-      <guid>https://example.org/posts/forestcottage/</guid>
+      <guid>http://localhost:1313/posts/forestcottage/</guid>
       <description>&lt;p&gt;Architectural design for a small 2-storey cottage, displayed in isometric view.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Record Shelf</title>
-      <link>https://example.org/posts/recordshelf/</link>
+      <link>http://localhost:1313/posts/recordshelf/</link>
       <pubDate>Sat, 27 Jul 2024 20:39:47 -0700</pubDate>
-      <guid>https://example.org/posts/recordshelf/</guid>
-      <description>Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D. </description>
+      <guid>http://localhost:1313/posts/recordshelf/</guid>
+      <description>&lt;p&gt;Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D.&#xA;&lt;img src=&#34;Featured_Shelf.jpg&#34; alt=&#34;A blueprint for a wooden record shelf drawn in black and white.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Healthy Hearth</title>
-      <link>https://example.org/posts/healthyhearth/</link>
+      <link>http://localhost:1313/posts/healthyhearth/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:35 -0700</pubDate>
-      <guid>https://example.org/posts/healthyhearth/</guid>
+      <guid>http://localhost:1313/posts/healthyhearth/</guid>
       <description>&lt;p&gt;A full branding system for a down-to-earth coffee shop, complete with logos, colors, and a website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Information Architecture Refresh</title>
-      <link>https://example.org/posts/lasarrus/</link>
+      <link>http://localhost:1313/posts/lasarrus/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:19 -0700</pubDate>
-      <guid>https://example.org/posts/lasarrus/</guid>
+      <guid>http://localhost:1313/posts/lasarrus/</guid>
       <description>&lt;p&gt;In the dynamic landscape of startups, the journey often begins with a simple one-page website. However, as organizations grow, these initial sites can become bloated and lose their impact.&lt;/p&gt;</description>
     </item>
   </channel>

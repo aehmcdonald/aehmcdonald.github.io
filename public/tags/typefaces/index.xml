@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typefaces on Alison McDonald</title>
-    <link>https://example.org/tags/typefaces/</link>
+    <link>http://localhost:1313/tags/typefaces/</link>
     <description>Recent content in Typefaces on Alison McDonald</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 24 Nov 2024 21:44:27 -0800</lastBuildDate>
-    <atom:link href="https://example.org/tags/typefaces/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/typefaces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groovy Grover</title>
-      <link>https://example.org/posts/groovygrover/</link>
+      <link>http://localhost:1313/posts/groovygrover/</link>
       <pubDate>Sun, 24 Nov 2024 21:44:27 -0800</pubDate>
-      <guid>https://example.org/posts/groovygrover/</guid>
-      <description>A wonky, wobbly, weirdo font for all your groovy needs. Purchase it for personal and commercial use at AlleyCatIndusries.com&#xA;Groovy Grover </description>
+      <guid>http://localhost:1313/posts/groovygrover/</guid>
+      <description>&lt;p&gt;A wonky, wobbly, weirdo font for all your groovy needs.&#xA;Purchase it for personal and commercial use at &lt;a href=&#34;https://www.alleycatindustries.com/shop/p/groovy-grover-font&#34;&gt;AlleyCatIndusries.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;groovy-grover&#34;&gt;Groovy Grover&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Featured.png&#34; alt=&#34;The word &amp;ldquo;Grover&amp;rdquo; superimposed over the word &amp;ldquo;groovy&amp;rdquo; repeated vertically in an array of colors from cream to orange&#34;&gt;&#xA;&lt;img src=&#34;Cream_Soda.png&#34; alt=&#34;The words &amp;ldquo;cream soda&amp;rdquo; and &amp;ldquo;Homemade - Organic&amp;rdquo; are written in white on an orange rectangle on a green background&#34;&gt;&#xA;&lt;img src=&#34;Foliage.png&#34; alt=&#34;The words &amp;ldquo;foliage: a whole bunch of plants&amp;rdquo; is written in green on top of an orange streak of paint. The background of the image is a bed of glossy green leaves.&#34;&gt;&#xA;&lt;img src=&#34;Alphabet.png&#34; alt=&#34;An image of the entire Grover font on a green background&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

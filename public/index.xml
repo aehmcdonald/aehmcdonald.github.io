@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alison McDonald</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Alison McDonald</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://example.org/contact/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/contact/</guid>
-      <description>Interested in working with me? Use the form above to send me a message!</description>
-    </item>
+    <lastBuildDate>Sun, 24 Nov 2024 21:44:27 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groovy Grover</title>
-      <link>https://example.org/posts/groovygrover/</link>
+      <link>http://localhost:1313/posts/groovygrover/</link>
       <pubDate>Sun, 24 Nov 2024 21:44:27 -0800</pubDate>
-      <guid>https://example.org/posts/groovygrover/</guid>
-      <description>A wonky, wobbly, weirdo font for all your groovy needs. Purchase it for personal and commercial use at AlleyCatIndusries.com&#xA;Groovy Grover </description>
+      <guid>http://localhost:1313/posts/groovygrover/</guid>
+      <description>&lt;p&gt;A wonky, wobbly, weirdo font for all your groovy needs.&#xA;Purchase it for personal and commercial use at &lt;a href=&#34;https://www.alleycatindustries.com/shop/p/groovy-grover-font&#34;&gt;AlleyCatIndusries.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;groovy-grover&#34;&gt;Groovy Grover&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Featured.png&#34; alt=&#34;The word &amp;ldquo;Grover&amp;rdquo; superimposed over the word &amp;ldquo;groovy&amp;rdquo; repeated vertically in an array of colors from cream to orange&#34;&gt;&#xA;&lt;img src=&#34;Cream_Soda.png&#34; alt=&#34;The words &amp;ldquo;cream soda&amp;rdquo; and &amp;ldquo;Homemade - Organic&amp;rdquo; are written in white on an orange rectangle on a green background&#34;&gt;&#xA;&lt;img src=&#34;Foliage.png&#34; alt=&#34;The words &amp;ldquo;foliage: a whole bunch of plants&amp;rdquo; is written in green on top of an orange streak of paint. The background of the image is a bed of glossy green leaves.&#34;&gt;&#xA;&lt;img src=&#34;Alphabet.png&#34; alt=&#34;An image of the entire Grover font on a green background&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Art Deco House</title>
-      <link>https://example.org/posts/artdeco/</link>
+      <link>http://localhost:1313/posts/artdeco/</link>
       <pubDate>Fri, 13 Sep 2024 10:42:24 -0700</pubDate>
-      <guid>https://example.org/posts/artdeco/</guid>
-      <description>This layout was drawn from an image of a gorgeous Art-Deco house in Florida. I focused mainly on the exterior architecture, such as the curved facade, and therefore did not include a full floorplan in the drawings.</description>
+      <guid>http://localhost:1313/posts/artdeco/</guid>
+      <description>&lt;p&gt;This layout was drawn from an image of a gorgeous Art-Deco house in Florida. I focused mainly on the exterior architecture, such as the curved facade, and therefore did not include a full floorplan in the drawings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;featured_house.jpg&#34; alt=&#34;South elevation of house&#34;&gt;&#xA;&lt;img src=&#34;firstfloor.jpg&#34; alt=&#34;First floor of house&#34;&gt;&#xA;&lt;img src=&#34;secondfloor.jpg&#34; alt=&#34;Second floor of house&#34;&gt;&#xA;&lt;img src=&#34;roof.jpg&#34; alt=&#34;Roof and awning of house&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wellness Website</title>
-      <link>https://example.org/posts/wellnesswebsite/</link>
+      <link>http://localhost:1313/posts/wellnesswebsite/</link>
       <pubDate>Fri, 06 Sep 2024 13:06:19 -0700</pubDate>
-      <guid>https://example.org/posts/wellnesswebsite/</guid>
-      <description>This mockup website was built as an example design for the upcoming debut of Doldrum Studio, a web design studio for wellness providers.</description>
+      <guid>http://localhost:1313/posts/wellnesswebsite/</guid>
+      <description>&lt;p&gt;This mockup website was built as an example design for the upcoming debut of &lt;strong&gt;Doldrum Studio&lt;/strong&gt;, a web design studio for wellness providers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Featured_Desktop.jpg&#34; alt=&#34;A mockup of a website in shades of green, with highlights of orange.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Featured_Mobile.jpg&#34; alt=&#34;A mockup of a mobile website in shades of green, with highlights of orange.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Forest Cottage</title>
-      <link>https://example.org/posts/forestcottage/</link>
+      <link>http://localhost:1313/posts/forestcottage/</link>
       <pubDate>Fri, 16 Aug 2024 14:45:54 -0700</pubDate>
-      <guid>https://example.org/posts/forestcottage/</guid>
+      <guid>http://localhost:1313/posts/forestcottage/</guid>
       <description>&lt;p&gt;Architectural design for a small 2-storey cottage, displayed in isometric view.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Record Shelf</title>
-      <link>https://example.org/posts/recordshelf/</link>
+      <link>http://localhost:1313/posts/recordshelf/</link>
       <pubDate>Sat, 27 Jul 2024 20:39:47 -0700</pubDate>
-      <guid>https://example.org/posts/recordshelf/</guid>
-      <description>Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D. </description>
+      <guid>http://localhost:1313/posts/recordshelf/</guid>
+      <description>&lt;p&gt;Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D.&#xA;&lt;img src=&#34;Featured_Shelf.jpg&#34; alt=&#34;A blueprint for a wooden record shelf drawn in black and white.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 24 Jul 2024 20:43:56 -0700</pubDate>
-      <guid>https://example.org/about/</guid>
-      <description>I&amp;rsquo;m Alison and I&amp;rsquo;m a *-Designer No, the asterisk isn&amp;rsquo;t a typo. It&amp;rsquo;s an innovative new title I&amp;rsquo;ve given to myself. Taken from the programming concept, the asterisk represents a wildcard &amp;ndash; a fill-in-the-blank.&#xA;I&amp;rsquo;ve had experience as a UX Designer, a Graphic Designer, a Web Designer, a Drafter/Designing&amp;hellip; the list goes on, but the final word doesn&amp;rsquo;t change. The core of all my interests is design, from architecture to websites, from information architecture to branding.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;im-alison-and-im-a--designer&#34;&gt;I&amp;rsquo;m Alison and I&amp;rsquo;m a *-Designer&lt;/h2&gt;&#xA;&lt;p&gt;No, the asterisk isn&amp;rsquo;t a typo. It&amp;rsquo;s an innovative new title I&amp;rsquo;ve given to myself. Taken from the programming concept, the asterisk represents a &lt;em&gt;wildcard&lt;/em&gt; &amp;ndash; a fill-in-the-blank.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had experience as a UX Designer, a Graphic Designer, a Web Designer, a Drafter/Designing&amp;hellip; the list goes on, but the final word doesn&amp;rsquo;t change. The core of all my interests is &lt;em&gt;design&lt;/em&gt;, from architecture to websites, from information architecture to branding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 24 Jul 2024 20:43:56 -0700</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Interested in working with me? Use the form below to send me a message!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://example.org/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Wed, 24 Jul 2024 20:43:56 -0700</pubDate>
-      <guid>https://example.org/resume/</guid>
-      <description>Work Experience CAHA Design Studio Architectural Drafter 10/24 - present • Freelance&#xA;Created as-built plans and models from floorplans and historic data Managed equipment schedules and specification sheet packets across projects Designed mechanical, electrical, and plumbing schematics Worked on both commercial and residential projects Completed a Historic Resources Report through the use of public records, genealogical databases, photographic surveys, and command-line programming Interfaced with contractors, vendors, and other architecture studios to gather necessary information to complete projects iPermit Permit Runner 01/24 - 06/24 • Full time</description>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h1&gt;&#xA;&lt;h2 id=&#34;caha-design-studio&#34;&gt;CAHA Design Studio&lt;/h2&gt;&#xA;&lt;h3 id=&#34;architectural-drafter&#34;&gt;Architectural Drafter&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;10/24 - present • Freelance&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Created as-built plans and models from floorplans and historic data&lt;/li&gt;&#xA;&lt;li&gt;Managed equipment schedules and specification sheet packets across projects&lt;/li&gt;&#xA;&lt;li&gt;Designed mechanical, electrical, and plumbing schematics&lt;/li&gt;&#xA;&lt;li&gt;Worked on both commercial and residential projects&lt;/li&gt;&#xA;&lt;li&gt;Completed a Historic Resources Report through the use of public records, genealogical databases, photographic surveys, and command-line programming&lt;/li&gt;&#xA;&lt;li&gt;Interfaced with contractors, vendors, and other architecture studios to gather necessary information to complete projects&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ipermit&#34;&gt;iPermit&lt;/h2&gt;&#xA;&lt;h3 id=&#34;permit-runner&#34;&gt;Permit Runner&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;01/24 - 06/24 • Full time&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Healthy Hearth</title>
-      <link>https://example.org/posts/healthyhearth/</link>
+      <link>http://localhost:1313/posts/healthyhearth/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:35 -0700</pubDate>
-      <guid>https://example.org/posts/healthyhearth/</guid>
+      <guid>http://localhost:1313/posts/healthyhearth/</guid>
       <description>&lt;p&gt;A full branding system for a down-to-earth coffee shop, complete with logos, colors, and a website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Information Architecture Refresh</title>
-      <link>https://example.org/posts/lasarrus/</link>
+      <link>http://localhost:1313/posts/lasarrus/</link>
       <pubDate>Wed, 24 Jul 2024 20:39:19 -0700</pubDate>
-      <guid>https://example.org/posts/lasarrus/</guid>
+      <guid>http://localhost:1313/posts/lasarrus/</guid>
       <description>&lt;p&gt;In the dynamic landscape of startups, the journey often begins with a simple one-page website. However, as organizations grow, these initial sites can become bloated and lose their impact.&lt;/p&gt;</description>
     </item>
   </channel>
