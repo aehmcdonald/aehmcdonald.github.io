@@ -7,4 +7,5 @@ tags = ['CAD', 'past work']
 +++
 
 Just a little record shelf I modeled off of an image on Pinterest to practice Rhino3D.
+<!--more-->
 ![A blueprint for a wooden record shelf drawn in black and white.](Featured_Shelf.jpg)
